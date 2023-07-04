@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap");
+
+.footer {
+      position: absolute;
+      bottom: 0;
+      display: flex;
+      justify-content: center;
+      padding: 1rem 0;
+      width: 100%;
+
+      &__text {
+            font-family: "IBM Plex Sans", sans-serif;
+            color: #000;
+            font-size: 14px;
+            font-weight: 400px;
+            line-height: 21px;
+      }
+}
