@@ -1,6 +1,6 @@
 import Logo from "../../assets/icons/Logo";
 
-import style from "./header.module.scss";
+import style from "./Header.module.scss";
 
 const Header = () => {
       return (
